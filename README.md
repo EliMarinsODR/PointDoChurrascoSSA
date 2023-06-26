@@ -1,2 +1,2 @@
 # PointDoChurrascoSSA
-Criação da landing page do Point do Churrasco
+Criação do menu de preços do Point do Churrasco
