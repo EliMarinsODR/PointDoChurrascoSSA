@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
+
+.content-text {
+  display: flex;
+  justify-content: center;
+}
+
+.text-price {
+  color: #ffffff;
+  font-size: 68px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.head-marca{
+    color: #FFD700;
+    font-size: 38px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-left: 36px;
+}
+
+.head-price{
+    color: #FFD700;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    margin-left: 36px;
+}
